@@ -1,0 +1,9 @@
+Total samples: 1440000
+Batch size: 64
+Window size: 501
+Number of epochs set: 100
+Number of epochs done: 77
+Learning rate: 0.0001
+Patience: 30
+Training loss: 0.4133910864566763
+Validation loss: 0.4283360140985913
